@@ -1,0 +1,3 @@
+[submodule "components/makerfabs_uwb"]
+	path = components/makerfabs_uwb
+	url = https://github.com/Makerfabs/Makerfabs-ESP32-UWB.git
